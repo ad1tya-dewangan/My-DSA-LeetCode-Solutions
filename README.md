@@ -10,6 +10,7 @@ LeetCode Solution Track
 | [0136-single-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
