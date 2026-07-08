@@ -1,6 +1,5 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        n = len(nums)
         maxSum = nums[0]
         currSum = 0
 
@@ -12,5 +11,3 @@ class Solution:
             maxSum = max(maxSum,currSum)
 
         return maxSum
-
-        
