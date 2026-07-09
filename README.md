@@ -8,6 +8,7 @@ LeetCode Solution Track
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -38,6 +39,7 @@ LeetCode Solution Track
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
