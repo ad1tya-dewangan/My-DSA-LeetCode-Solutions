@@ -1,3 +1,6 @@
+# Use a set for O(1) lookups. Start only from the beginning of a sequence
+# (when num - 1 doesn't exist) and count forward, so each sequence is visited once.
+
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         n = len(nums)
