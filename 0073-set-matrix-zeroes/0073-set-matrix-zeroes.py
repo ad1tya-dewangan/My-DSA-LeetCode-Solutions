@@ -5,21 +5,18 @@ class Solution:
         """
         rows = len(matrix)
         cols = len(matrix[0])
+
+        zero_rows = set()
+        zero_cols = set()
         for i in range(rows):
             for j in range(cols):
                 if matrix[i][j] == 0:
-                    #mark entire row
-                    for c in range(cols):
-                        if matrix[i][c] != 0:
-                            matrix[i][c] = '$'
-                    #mark entire col
-                    for r in range(rows):
-                        if matrix[r][j] != 0:
-                            matrix[r][j] = '$'
+                    zero_rows.add(i)
+                    zero_cols.add(j)
 
         for i in range(rows):
             for j in range(cols):
-                if matrix[i][j] == '$':
+                if i in zero_rows or j in zero_cols:
                     matrix[i][j] = 0
 
         
