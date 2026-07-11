@@ -11,5 +11,12 @@ class Solution:
                 matrix[i][j],matrix[j][i] = matrix[j][i],matrix[i][j]
 
         # Reverse each row
-        for r in range(n):
-            matrix[r] = matrix[r][::-1]
+        for row in matrix:
+            l = 0
+            r = n-1
+            while l<r:
+                row[l],row[r] = row[r],row[l]
+                l += 1
+                r -= 1
+
+        
