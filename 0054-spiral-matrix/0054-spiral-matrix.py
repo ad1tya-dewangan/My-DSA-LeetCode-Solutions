@@ -1,11 +1,16 @@
-# The intuition is to create 4 pointers to keep track of boundries and srink them after traversal of a boundary until there is no rectangle boundries left
-# i.e. left bound. <= right bound. and top bound. <= bottom bound.
-
-# Also make sure a boundary exist before traversing it 
-# left <= right will check if the left boundary exist or not
-# similarly top <= bottom will check for bottom boundary 
-
-# Note: the top and right boundary doesn't need extra check because the loop will not run if there is no boundary but bottom and left need check because the spiraling is running clockwise and we are shrinking the boundaries inside while loop
+# Intuition:
+# Use four boundaries (left, right, top, bottom) to represent the
+# current unvisited rectangle.
+#
+# Traverse the rectangle clockwise:
+# top row -> right column -> bottom row -> left column.
+#
+# After traversing each side, shrink its boundary inward.
+#
+# The bottom and left traversals require extra boundary checks because
+# the top and right traversals may have already exhausted the remaining
+# rectangle. Without these checks, elements in a single row/column could
+# be visited twice.
 
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
