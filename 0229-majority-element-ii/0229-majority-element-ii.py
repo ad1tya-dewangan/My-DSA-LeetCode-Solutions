@@ -1,33 +1,38 @@
+# Uses Boyer-Moore Majority Vote algorithm to find elements appearing > n // 3 times.
+# Phase 1: Tracks up to 2 potential candidates by pairing out 3 distinct elements.
+# Phase 2: Verifies candidates with a second pass to check if their actual counts exceed the threshold.
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        c1 = c2 = None
+        cand1 = cand2 = None
         count1 = count2 = 0
 
+        # Identify potential candidates
         for num in nums:
-            if c1 == num:
+            if cand1 == num:
                 count1 += 1
-            elif c2 == num:
+            elif cand2 == num:
                 count2 += 1
             elif count1 == 0:
-                c1 = num
+                cand1 = num
                 count1 = 1
             elif count2 == 0:
-                c2 = num
+                cand2 = num
                 count2 = 1
             else:
                 count1 -= 1
                 count2 -= 1
             
+        # Verify the candidates
         count1 = count2 = 0
-
         for num in nums:
-            if c1 == num: count1 += 1
-            if c2 == num: count2 += 1
+            if cand1 == num: count1 += 1
+            if cand2 == num: count2 += 1
 
         res = []
         maj = len(nums) // 3
 
-        if count1 > maj: res.append(c1)
-        if count2 > maj: res.append(c2)
+        if count1 > maj: res.append(cand1)
+        if count2 > maj: res.append(cand2)
 
         return res
