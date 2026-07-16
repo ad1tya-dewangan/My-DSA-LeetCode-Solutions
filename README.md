@@ -19,6 +19,7 @@ LeetCode Solution Track
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -52,6 +53,7 @@ LeetCode Solution Track
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
@@ -63,6 +65,7 @@ LeetCode Solution Track
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
