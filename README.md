@@ -17,6 +17,7 @@ LeetCode Solution Track
 | [0056-merge-intervals](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -56,6 +57,7 @@ LeetCode Solution Track
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -77,6 +79,7 @@ LeetCode Solution Track
 | [0018-4sum](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
