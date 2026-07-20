@@ -14,6 +14,7 @@ LeetCode Solution Track
 | [0048-rotate-image](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -74,6 +75,7 @@ LeetCode Solution Track
 | ------- | ------- |
 | [0015-3sum](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
