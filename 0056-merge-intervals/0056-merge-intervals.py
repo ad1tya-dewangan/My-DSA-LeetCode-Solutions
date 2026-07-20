@@ -9,8 +9,10 @@ class Solution:
             s = intervals[i][0]
             e = intervals[i][1]
 
-            if s <= res[-1][1]:
-                res[-1][1] = max(res[-1][1],e)
+            last_end = res[-1][1] #res[-1][1] is last end interval in res
+
+            if s <= last_end:   
+                res[-1][1] = max(last_end,e)
             else:
                 res.append([s,e])
 
