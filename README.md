@@ -29,6 +29,7 @@ LeetCode Solution Track
 | [0268-missing-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ LeetCode Solution Track
 | [0229-majority-element-ii](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@ LeetCode Solution Track
 | ------- | ------- |
 | [0136-single-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +86,7 @@ LeetCode Solution Track
 | [0169-majority-element](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/ad1tya-dewangan/My-DSA-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
