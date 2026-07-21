@@ -1,21 +1,22 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        
-        freq = {}
-        actual_sum = 0
-        repeating = 0
-        
+        hash_arr = [0]*(n+1)
+
         for num in nums:
-            actual_sum += num
-            
-            freq[num] = freq.get(num,0) + 1
-            
-            if freq[num] == 2:
-                repeating = num
-                
-        expected_sum = (n*(n+1)) // 2
-        
-        missing = expected_sum - (actual_sum - repeating)
-        
+            hash_arr[num] += 1
+
+        missing = -1
+        repeating = -1
+
+        for i in range(1,n+1):
+            if hash_arr[i] == 2:
+                repeating = i
+            elif hash_arr[i] == 0:
+                missing = i
+
+            if missing != -1 and repeating != -1:
+                break
+
         return [repeating,missing]
+            
